@@ -1,4 +1,14 @@
-## Hi there 👋
+#### Hi, you've found my GitHub page. 
+This is where I'll be putting my (personal) project files. Like MATLAB, KiCad, LTSpice. 
+
+## Bio
+I'm currently in the Electrical Engineering field, where my Honours' Thesis is based on Digital Signal Processing. I have experience with signal processing (though on MATLAB), PCB design on KiCad, circuit design and simulation through LTSpice, as well as some coding. I'll be putting my personal project's files here, and hopefully I can put some more code here soon. In addition to code, I'll be adding photos and some reports summarizing my projects.
+
+Circuit Design extends to not only passive elements but also to using sensors, ICs, and microprocessors. My code will mostly be in C. 
+
+## Skills
+KiCad | Soldering | Circuit Design and Testing | C, Python
+
 
 <!--
 **Aka-O/Aka-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
